@@ -15,13 +15,13 @@ I also document my learning process and share insights on server-side developmen
 
 <p align="left">
   <a href="https://github.com/SoaresDev7">
-    <img src="https://img.shields.io/badge/GitHub-SoaresDev7-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/s.so4res">
-    <img src="https://img.shields.io/badge/Instagram-@s.so4res-FFFFFF?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tobias-soares">
-    <img src="https://img.shields.io/badge/linkedIn-Tobias%20Soares-0000FF?style=for-the-badge&logo=linkedIn&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 

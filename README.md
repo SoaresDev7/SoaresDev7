@@ -50,14 +50,7 @@ I also document my learning process and share insights on server-side developmen
 
 <div align="center">
   <table border="0">
-    <tr>
-      <td>
         <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SoaresDev7&show_icons=true&theme=tokyonight&count_private=true" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SoaresDev7&theme=tokyonight&langs_count=7&hide=html,css&card_width=400" />
-      </td>
-    </tr>
   </table>
 </div>
 ---

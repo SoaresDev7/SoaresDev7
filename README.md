@@ -20,7 +20,7 @@ I also document my learning process and share insights on server-side developmen
   <a href="https://instagram.com/s.so4res">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/tobias-soares](https://www.linkedin.com/in/tobias-soares-639721364/)">
+  <a href="https://www.linkedin.com/in/tobias-soares-639721364/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>

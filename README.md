@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tobias Soares
 
-🚀**Iniciantes em Desenvolvimento Back-end | Java**  
+🚀**Iniciante em Desenvolvimento Back-end | Java**  
 🇧🇷 Brazil
 
 I build **resilient back-end services**, **RESTful APIs**, and **containerized applications**.
